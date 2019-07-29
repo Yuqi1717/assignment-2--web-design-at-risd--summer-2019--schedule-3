@@ -20,7 +20,9 @@ main {
    text-align: center;
    font-family: 'Asap', sans-serif;
    letter-spacing: 3px;
+   margin: 20px;
 }
+
 .subtitle {
    color: white;
    font-size: 15px;
